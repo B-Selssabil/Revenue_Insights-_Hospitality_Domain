@@ -1,0 +1,9 @@
+We need :
+
+RevPar : Revenue Per Available Room
+OCC % : Total successful bookings happend to the total rooms available
+Revenue : To get total revenue_ralized
+DSRN : Daily Sellable Room Nights
+ADR : Average Daily Rate
+
+Realization = URN / BRN
